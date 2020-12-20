@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A small version of the Battleship game/Tic-Tac-Toe.Problems-A_small_version_of_the_Battleship_game.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A small version of the Battleship game/Tic-Tac-Toe.Problems-A_small_version_of_the_Battleship_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A small version of the Battleship game/Tic-Tac-Toe.Problems-A_small_version_of_the_Battleship_game.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A small version of the Battleship game/Tic-Tac-Toe.Problems-A_small_version_of_the_Battleship_game.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A small version of the Battleship game/Tic-Tac-Toe.Problems-A_small_version_of_the_Battleship_game.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A small version of the Battleship game/Tic-Tac-Toe.Problems-A_small_version_of_the_Battleship_game.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" />
+    </modules>
+  </component>
+</project>
